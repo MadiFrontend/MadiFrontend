@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning and working on **Advanced and Large-scale Web Projects**
 
 - 📫 How to reach me **Madifrontend@gmail.com**
 
