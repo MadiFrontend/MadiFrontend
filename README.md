@@ -13,7 +13,7 @@
 
 - **Next.js**
 - **React**
-  **Node.js (express.js)**
+- **Node.js** (express.js)
 - **JavaScript** (ES6)
 - **CSS** (Sass, Tailwind)
 - **HTML**
