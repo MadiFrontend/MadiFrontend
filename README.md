@@ -17,3 +17,5 @@
 - **JavaScript** (ES6)
 - **CSS** (Sass, Tailwind)
 - **HTML**
+
+- 📫 How to reach me **Madifrontend@gmail.com**
