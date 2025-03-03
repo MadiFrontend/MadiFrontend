@@ -10,6 +10,7 @@
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,docker,mongodb,nodejs,ts,js,tailwind,sass,css,html)](https://skillicons.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madifrontend)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Next.js**
 - **React**
