@@ -9,14 +9,15 @@
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,docker,mongodb,nodejs,ts,js,tailwind,sass,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,docker,mongodb,nodejs,ts,nestjs,js,go,tailwind,sass,css,html)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madifrontend&layout=donut-vertical&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Next.js**
 - **React**
-- **Node.js** (express.js)
+- **Node.js** (express.js, nest.js)
+- **Go lang**
 - **JavaScript** (ES6)
 - **CSS** (Sass, Tailwind)
 - **HTML**
