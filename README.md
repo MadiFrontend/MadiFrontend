@@ -23,3 +23,6 @@
 - **HTML**
 
 - 📫 How to reach me **Madifrontend@gmail.com**
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
