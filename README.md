@@ -1,28 +1,68 @@
+# Hi there, I'm Mahdi Hosseini! 👋
 
-# Hi, I'm Mahdi Hosseini! 👋
+<div align="center">
 
-## 🚀 About Me
+### 🚀 Frontend / Fullstack Developer
+*Building modern, scalable web applications with passion and precision*
 
+</div>
 
->I am a passionate front-end developer with a strong interest in continuous learning and team collaboration. My expertise lies in developing front-end applications using React and the Next.js framework. I constantly strive to keep my technical knowledge up to date and apply the latest technologies and best practices in projects. Additionally, I am enthusiastic about sharing my knowledge and experiences with others, believing that both learning and teaching contribute to individual and team growth.
+---
 
+## 🧑‍💻 About Me
 
+I'm a passionate **Frontend / Fullstack Developer** who thrives on continuous learning and teamwork. My core expertise lies in crafting modern front-end applications with **React** and **Next.js**, while also being comfortable across the full stack.
 
-## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,docker,mongodb,nodejs,ts,nestjs,js,go,tailwind,sass,css,html)](https://skillicons.dev)
+- 🔭 I constantly keep my technical knowledge up to date and apply the latest technologies & best practices in real projects.
+- 🤝 I love collaborating with teams and believe that **both learning and teaching** fuel individual and collective growth.
+- 💡 I'm enthusiastic about sharing my knowledge and experiences with the developer community.
+- 🌱 Always exploring new tools, patterns, and architectures.
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madifrontend&layout=donut-vertical&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tech Stack
 
-- **Next.js**
-- **React**
-- **Node.js** (express.js, nest.js)
-- **Go lang**
-- **JavaScript** (ES6)
-- **CSS** (Sass, Tailwind)
-- **HTML**
+<div align="center">
 
-- 📫 How to reach me **Madifrontend@gmail.com**
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,sass,css,html,nodejs,nestjs,express,go,python,mongodb,mysql,postgres,redis,docker,git,github,linux,nginx,grafana,sentry,jest,vitest,cypress)](https://skillicons.dev)
+
+</div>
+
+**Core Skills:**
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | Next.js, React, Redux, TypeScript, JavaScript (ES6+), Tailwind CSS, Sass, CSS, HTML |
+| **Backend** | Node.js (Express.js, Nest.js), Go, Python |
+| **Database** | MongoDB, MySQL, PostgreSQL, Redis |
+| **DevOps** | Docker, Git, GitHub Actions, Linux, Nginx, Grafana, Sentry |
+| **Testing** | Jest, Vitest, React Testing Library, Cypress |
+| **Other** | REST APIs, WebSockets, CI/CD basics |
+
+---
+
+## 📬 Get in Touch
+
+<div align="center">
+
+📧 **Email:** [Madifrontend@gmail.com](mailto:Madifrontend@gmail.com)
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ *Thanks for visiting my profile! Feel free to reach out — let's build something great together.* 🚀
+
+</div>
